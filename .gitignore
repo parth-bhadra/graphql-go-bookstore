@@ -1,0 +1,45 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of the go coverage tool
+*.out
+
+# Go workspace file
+go.work
+
+# Go modules
+vendor/
+
+# Dependency directories
+Godeps/
+
+# IDE and editor directories and files
+.idea/
+.vscode/
+*.swp
+*~
+
+# Logs
+*.log
+
+# Build directories
+bin/
+build/
+
+# Test binary, coverage, and result files
+*.test
+*.cover
+*.cov
+
+# Environment variables file
+.env
+
+# MacOS files
+.DS_Store
+
+# Linux files
+*~
